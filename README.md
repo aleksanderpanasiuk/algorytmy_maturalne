@@ -1,4 +1,4 @@
-# Lista algorytmow
+# Lista algorytmów
 
 1. Algorytmy na liczbach całkowitych:
     * reprezentacja liczb w dowolnym systemie pozycyjnym, w tym w dwójkowym i szesnastkowym,
@@ -10,7 +10,12 @@
     * wydawanie reszty metodą zachłanną
 2. Algorytmy wyszukiwania i porządkowania (sortowania):
     * jednoczesne znajdowanie największego i najmniejszego elementu w zbiorze: algorytm naiwny i optymalny,
-    * algorytmy sortowania ciągu liczb: bąbelkowy, przez wybór, przez wstawianie liniowe lub binarne, przez scalanie, szybki, kubełkowy,
+    * sortowanie bąbelkowe
+    * sortowanie przez wybór
+    * sortowanie przez wstawianie
+    * sortowanie przez scalanie
+    * sortowanie szybkie
+    * sortowanie kubełkowe
 3. Algorytmy numeryczne:
     * obliczanie wartości pierwiastka kwadratowego,
     * obliczanie wartości wielomianu za pomocą schematu Homera,
