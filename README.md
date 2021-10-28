@@ -17,7 +17,8 @@
     * sortowanie szybkie
 3. Algorytmy numeryczne:
     * obliczanie wartości pierwiastka kwadratowego
-    * obliczanie wartości wielomianu za pomocą schematu Homera
+    * obliczanie wartości wielomianu za pomocą schematu Hornera iteracyjnie
+    * obliczanie wartości wielomianu za pomocą schematu Hornera rekurencyjnie
     * zastosowania schematu Homera: reprezentacja liczb w różnych systemach liczbowych, szybkie podnoszenie do potęgi
     * wyznaczanie miejsc zerowych funkcji metodą połowienia
     * obliczanie pola obszarów zamkniętych metodą trapezów i prostokątów
