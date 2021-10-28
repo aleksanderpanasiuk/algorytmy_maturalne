@@ -15,7 +15,6 @@
     * sortowanie przez wstawianie
     * sortowanie przez scalanie
     * sortowanie szybkie
-    * sortowanie kubełkowe
 3. Algorytmy numeryczne:
     * obliczanie wartości pierwiastka kwadratowego,
     * obliczanie wartości wielomianu za pomocą schematu Homera,
