@@ -25,7 +25,8 @@
     * obliczanie pola obszarów zamkniętych metodą trapezów 
     * obliczanie pola obszarów zamkniętych metodą prostokatow
 4. Algorytmy na tekstach:
-    * sprawdzanie, czy dany ciąg znaków tworzy palindrom, anagram
+    * czy palindrom
+    * czy anagram
     * porządkowanie alfabetyczne (leksykograficzne)
     * wyszukiwanie wzorca w tekście
     * obliczanie wartości wyrażenia podanego w postaci odwrotnej notacji polskiej
