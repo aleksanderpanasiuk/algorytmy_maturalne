@@ -19,7 +19,8 @@
     * obliczanie wartości pierwiastka kwadratowego
     * obliczanie wartości wielomianu za pomocą schematu Hornera iteracyjnie
     * obliczanie wartości wielomianu za pomocą schematu Hornera rekurencyjnie
-    * szybkie podnoszenie do potęgi
+    * szybkie podnoszenie do potęgi iteracyjnie
+    * szybkie podnoszenie do potęgi rekurencyjnie
     * wyznaczanie miejsc zerowych funkcji metodą połowienia
     * obliczanie pola obszarów zamkniętych metodą trapezów i prostokątów
 4. Algorytmy na tekstach:
