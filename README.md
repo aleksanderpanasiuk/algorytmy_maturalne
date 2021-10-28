@@ -22,7 +22,8 @@
     * szybkie podnoszenie do potęgi iteracyjnie
     * szybkie podnoszenie do potęgi rekurencyjnie
     * wyznaczanie miejsc zerowych funkcji metodą połowienia
-    * obliczanie pola obszarów zamkniętych metodą trapezów i prostokątów
+    * obliczanie pola obszarów zamkniętych metodą trapezów 
+    * obliczanie pola obszarów zamkniętych metodą prostokatow
 4. Algorytmy na tekstach:
     * sprawdzanie, czy dany ciąg znaków tworzy palindrom, anagram
     * porządkowanie alfabetyczne (leksykograficzne)
