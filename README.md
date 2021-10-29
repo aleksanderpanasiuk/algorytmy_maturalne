@@ -31,7 +31,6 @@
     * wyszukiwanie wzorca w tekście
     * obliczanie wartości wyrażenia podanego w postaci odwrotnej notacji polskiej
 5. Algorytmy kompresji i szyfrowania:
-    * kody znaków o zmiennej długości, np. alfabet Morse'a, kod Huffmana
     * szyfr Cezara
     * szyfr przestawieniowy
     * szyfr z kluczem jawnym (RSA)
