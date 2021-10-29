@@ -1,12 +1,30 @@
 klucz = 3
 s = "AabcdefzZ"
-d= []
 
-for i in range(len(s)):
-    if ord(s[i]) >= 97:
-        d.append(chr((ord(s[i])-97 + klucz) % 26 + 97))
-    else:
-        d.append(chr((ord(s[i])-65 + klucz) % 26 + 65))
+def kodowanie(s, k):
+    d = []
+
+    for i in range(len(s)):
+        if ord(s[i]) >= 97:
+            d.append(chr((ord(s[i])-97 + k) % 26 + 97))
+        else:
+            d.append(chr((ord(s[i])-65 + k) % 26 + 65))
+
+    return "".join(d)
 
 
-print("".join(d))
+def dekodowanie(s, k):
+    d = []
+
+    for i in range(len(s)):
+        if ord(s[i]) >= 97:
+            d.append(chr((ord(s[i])-97 - k) % 26 + 97))
+        else:
+            d.append(chr((ord(s[i])-65 - k) % 26 + 65))
+
+    return "".join(d)
+
+
+print(s)
+print(kodowanie(s, klucz))
+print(dekodowanie(kodowanie(s, klucz), klucz))
