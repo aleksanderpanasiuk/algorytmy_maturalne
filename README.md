@@ -34,7 +34,6 @@
     * szyfr Cezara
     * szyfr przestawieniowy
     * szyfr z kluczem jawnym (RSA)
-    * wykorzystanie algorytmów szyfrowania, np. w podpisie elektronicznym
 6. Algorytmy badające własności geometryczne:
     * sprawdzanie warunku trójkąta
     * badanie położenia punktów względem prostej
