@@ -22,13 +22,13 @@ def przecinanie_odcinkow(a, b, c, d):
     if ((v1>0 and v2<0) or (v1<0 and v2>0)) and ((v3>0 and v4<0) or (v3<0 and v4>0)):
         return True
 
-    if v1 == 0 and sprawdz(C, D, A):
+    if v1 == 0 and punkt_odcinek(C, D, A):
         return True
-    if v2 == 0 and sprawdz(C, D, B):
+    if v2 == 0 and punkt_odcinek(C, D, B):
         return True
-    if v3 == 0 and sprawdz(A, B, C):
+    if v3 == 0 and punkt_odcinek(A, B, C):
         return True
-    if v4 == 0 and sprawdz(A, B, D):
+    if v4 == 0 and punkt_odcinek(A, B, D):
         return True
 
     return False
