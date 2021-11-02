@@ -6,6 +6,7 @@
     * sprawdzanie, czy liczba jest liczbą doskonałą
     * rozkładanie liczby na czynniki pierwsze
     * iteracyjna i rekurencyjna realizacja algorytmu Euklidesa
+    * rozszerzony euklides
     * iteracyjne i rekurencyjne obliczanie wartości liczb Fibonacciego
     * wydawanie reszty metodą zachłanną
 2. Algorytmy wyszukiwania i porządkowania (sortowania):
