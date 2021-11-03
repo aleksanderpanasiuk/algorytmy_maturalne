@@ -6,7 +6,7 @@
     * sprawdzanie, czy liczba jest liczbą doskonałą
     * rozkładanie liczby na czynniki pierwsze
     * iteracyjna i rekurencyjna realizacja algorytmu Euklidesa
-    * rozszerzony euklides
+    * rozszerzony algorytm Euklidesa
     * iteracyjne i rekurencyjne obliczanie wartości liczb Fibonacciego
     * wydawanie reszty metodą zachłanną
 2. Algorytmy wyszukiwania i porządkowania (sortowania):
@@ -42,6 +42,7 @@
     * przecinanie się odcinków
     * przynależność punktu do obszaru
     * konstrukcje rekurencyjne: drzewo binarne, dywan Sierpińskiego, płatek Kocha
-    * trójkąt sierpińskiego
+    * dywan Sierpińskiego
+    * trójkąt Sierpińskiego
 
 inspired by http://www.algorytm.edu.pl/algorytmy-maturalne.html
