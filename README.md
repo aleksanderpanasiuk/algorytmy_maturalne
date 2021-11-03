@@ -41,7 +41,7 @@
     * badanie przynależności punktu do odcinka
     * przecinanie się odcinków
     * przynależność punktu do obszaru
-    * konstrukcje rekurencyjne: drzewo binarne, płatek Kocha
+    * płatek Kocha
     * dywan Sierpińskiego
     * trójkąt Sierpińskiego
 
