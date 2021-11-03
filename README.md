@@ -42,5 +42,6 @@
     * przecinanie się odcinków
     * przynależność punktu do obszaru
     * konstrukcje rekurencyjne: drzewo binarne, dywan Sierpińskiego, płatek Kocha
+    * trójkąt sierpińskiego
 
 inspired by http://www.algorytm.edu.pl/algorytmy-maturalne.html
